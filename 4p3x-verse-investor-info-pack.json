@@ -1,0 +1,20 @@
+{
+  "name": "4P3X Verse™ Grant & Investor Portfolio",
+  "brand": "Powered by 4P3X Intelligent AI™ — Created by Kyzel Kreates™",
+  "grantFocus": [
+    "transport safety and bridge-strike prevention",
+    "community welfare coordination",
+    "digital inclusion and accessible AI explainers",
+    "training access and evidence capture",
+    "pilot-ready backend/live product pathways"
+  ],
+  "keyPublicBenefitMetrics": {
+    "reportedBridgeStrikes2024_25": "1,666 reported bridge strikes across the rail network, Network Rail 1 Apr 2024 to 31 Mar 2025",
+    "reportedFrequency": "roughly one every five hours",
+    "reportedDelayImpact": "over 120 days / 186,384 minutes of delays",
+    "reportedRailIndustryCost": "around £12m in delays and cancellations"
+  },
+  "tagline": "Demo Mode shows the product. Live Mode runs the product.",
+  "pilotPathways": ["Big V’s Best Routes™ safety pilot", "ResponseLink OS™ welfare coordination pilot", "Kyzel Clarity™ accessible explainer pilot"],
+  "security": "No API keys, GitHub tokens, TextBee secrets, service role keys, database URLs, or backend-only secrets should be committed or stored in frontend code."
+}

@@ -1,0 +1,86 @@
+{
+  "name": "4P3X Verse Grant Portfolio",
+  "short_name": "4P3X Verse",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020204",
+  "theme_color": "#050507",
+  "description": "Grant-ready public-benefit portfolio PWA for 4P3X Verse\u2122 Powered by 4P3X Intelligent AI\u2122 Created by Kyzel Kreates\u2122.",
+  "scope": "./",
+  "orientation": "any",
+  "categories": [
+    "business",
+    "productivity",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "assets/4p3x-square-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/4p3x-square-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Grant Plan",
+      "short_name": "Grant",
+      "url": "./index.html#grant",
+      "icons": [
+        {
+          "src": "assets/4p3x-square-logo.png",
+          "sizes": "512x512"
+        }
+      ]
+    },
+    {
+      "name": "Public Benefit",
+      "short_name": "Public Benefit",
+      "url": "./index.html#public-benefit",
+      "icons": [
+        {
+          "src": "assets/4p3x-square-logo.png",
+          "sizes": "512x512"
+        }
+      ]
+    },
+    {
+      "name": "Safety Case",
+      "short_name": "Safety",
+      "url": "./index.html#safety",
+      "icons": [
+        {
+          "src": "assets/4p3x-square-logo.png",
+          "sizes": "512x512"
+        }
+      ]
+    },
+    {
+      "name": "Live Projects",
+      "short_name": "Projects",
+      "url": "./index.html#products",
+      "icons": [
+        {
+          "src": "assets/4p3x-square-logo.png",
+          "sizes": "512x512"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "url": "./index.html#contact",
+      "icons": [
+        {
+          "src": "assets/4p3x-square-logo.png",
+          "sizes": "512x512"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Build helpers
+write_index.py
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+.env
+*.env
+node_modules/
